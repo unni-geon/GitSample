@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 dddd
+eeee
 36e529dd51136e9d1e93638dc48bde3efb914944
 
 hello
@@ -12,6 +13,7 @@ line 1 by user2
 =======
 
 line 1 by user2
+<<<<<<< HEAD
 >>>>>>> ca172c823280fec1e23d34206f0b00bb04f5f1f7
 hello
 divya
@@ -26,3 +28,10 @@ dddddd
 ddd
 =======
 >>>>>>> ca172c823280fec1e23d34206f0b00bb04f5f1f7
+=======
+hai
+hello
+
+hello
+divya
+>>>>>>> 612623d29afe09ea7a2cba15dc188ff6cb5c5fd2
